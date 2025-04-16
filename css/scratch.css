@@ -1,0 +1,38 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    color: White;
+
+}
+
+#ordered-list{
+    color:black;
+    text-align: left;
+}
+
+#frog{
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+    height: auto;
+}
+
+#ashley-is-cute{
+    text-align: center;
+}
+
+#wrapped{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
